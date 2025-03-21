@@ -1,0 +1,2 @@
+# friendnote
+basefastapi friendshare project
